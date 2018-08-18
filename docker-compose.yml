@@ -6,7 +6,6 @@ services:
   php:
     image: php:7.2-apache
 
-
   mysql:
     image: mysql:8.0.12
 
